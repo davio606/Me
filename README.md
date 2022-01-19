@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio [DEPRECATED]
 
 Created a portfolio website using React to show all about me (:
 
